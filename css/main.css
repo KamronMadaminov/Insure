@@ -1,0 +1,137 @@
+.navbar1 {
+    height: 70px;
+    padding-top: 2%;
+}
+
+.menu {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.hr {
+    width: 20%;
+    color: #fff;
+}
+
+.buttons a {
+    font-family: Karla;
+    color: #837D88;
+    text-decoration: none;
+}
+
+.buttons a:hover {
+    color: #000;
+    text-decoration: none;
+}
+
+.plan {
+    border: 2px solid black;
+    padding: 10px;
+    font-family: Karla; 
+    color: #000;
+}
+
+.plan:hover {
+    color: #000;
+    text-decoration: none;
+}
+
+.section1 {
+    color: #fff;
+    background-color: #2D2641;
+    
+}
+
+.humanizing {
+    margin-top: 15%;
+    font-family: DM serif display;
+}
+
+.plan2 {
+    border: 2px solid #fff;
+    padding: 10px;
+    color: #fff;
+}
+
+.plan2:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.img img {
+    width: 500px;
+}
+
+.section2 {
+    margin-top: 10%;
+}
+
+.hr2 {
+    width: 10%;
+    
+}
+
+.different {
+    margin-top: 5%;
+    font-size: 5rem;
+}
+
+.ul {
+    margin-top: 5%;
+    list-style: none;
+    display: flex;
+    font-family: Karla;
+}
+
+.li {
+    padding: 1%;
+}
+
+.section3 {
+    margin-top: 5%;
+    background-color: #2D2641;
+}
+
+.text {
+    font-size: 5rem;
+    font-family: DM serif display;
+    color: #fff;
+}
+
+.link {
+    border: 2px solid #fff;
+    color: #fff;
+    padding: 10px;
+    text-transform: uppercase;
+    float: right;
+    margin-top: 12%;
+}
+
+.link:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer {
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+
+.end {
+   justify-content: space-between;
+}
+
+.footer2 {
+    list-style: none;
+    color: #837D88;
+}
+
+.link2 a {
+    color: #000;
+}
+
+.link2 a:hover {
+    color: #000;
+    text-decoration: none;
+}
